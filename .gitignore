@@ -1,2 +1,4 @@
 sublime-garage.sublime-project
 sublime-garage.sublime-workspace
+build/
+dist/
